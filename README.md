@@ -1,6 +1,6 @@
 # NVDA-financial-analysis
 
-asic analysis of stocks and some financial ratios resulting in a CAPM comparison
+Basic analysis of stocks and some financial ratios resulting in a CAPM comparison
 
 This project uses Anaconda, NumPy, Pandas DataReader to show:
 Portfolios and returns
