@@ -20,3 +20,5 @@ Market Beta of the S&P500
 Capital Wealth pricing model (CAPM)
 Beta and CAPM calculations
 Expected return on investment
+
+The data is taken from Yahoo finance.
