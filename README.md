@@ -21,4 +21,6 @@ Capital Wealth pricing model (CAPM)
 Beta and CAPM calculations
 Expected return on investment
 
+The full workflow is to start with bash for windows, git, replit, github autopilot, jupyter notebook, tableau, output to excel
+
 The data is taken from Yahoo finance.
